@@ -40,3 +40,7 @@ a {
     color-scheme: dark;
   }
 }
+.custom-styling {
+  padding: 16px 16px;
+  background-color: #101010
+}
