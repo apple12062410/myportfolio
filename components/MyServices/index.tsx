@@ -22,7 +22,7 @@ export default function MyServices() {
     </Stack>
     <Grid container spacing={4} justifyContent="center" mt={5}>
       {items.map((_, index) => (
-        <Grid key={index} item xs={12} sm={3} md={3}>
+        <Grid key={index} item xs={12} sm={6} md={6} lg={3}>
           <Box
             sx={{
               height: '300px',
